@@ -1,0 +1,114 @@
+---
+title: "eRum"
+author: "Regina Siegers"
+date: "13 6 2020"
+output: ioslides_presentation
+logo: CorrelAid_Dach-Label_white.png
+css: Dokument.css
+keep_tex: true
+in_header: columns.tex
+
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+```{r, echo=FALSE}
+logo<-"https://s12.directupload.net/images/200614/y8wrqgne.png"
+```
+
+
+
+## Introduction Slide
+
+Regina Siegers
+Deputy Chairwomen CorrelAid
+
+- Twitterhandle Regina
+- Twitterhandle CorrelAid
+- Facebook CorrelAid
+- Website / Mailinglist
+
+## What's CorrelAid {data-background=Hintergrund_CorrelAid.png}
+
+<div class="columns-2">
+<br>
+<br>
+
+<img src="https://s12.directupload.net/images/200614/hpc8dr8t.png"> 
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+CorrelAid is a Network of >1300 Data Scientists, who want to create positive change trough data science.
+</div>
+<IMG style="position:absolute;bottom:2.5%;left:5%;width:200px; height:50px;"SRC="`r logo`">
+
+## What we do {data-background=Hintergrund_CorrelAid.png}
+
+<div class="columns-2">
+
+**Data Science for...**
+<img src="https://s12.directupload.net/images/200614/7xswa5vm.png">
+<img src="https://s12.directupload.net/images/200614/8lgwojbl.png">
+<img src="https://s12.directupload.net/images/200614/xgzs8srz.png">
+
+
+**GOOD**: <br>
+We provide pro-bono data
+analysis to
+organisations with a social
+mission. <br>
+--- <br>
+**COMMUNITY**: <br>
+We connect data
+scientists & provide a platform to apply and expand their knowledge. <br>
+--- <br>
+**TOMORROW**: <br>
+We initiate a dialogue on the benefits of data science for civil
+society. <br>
+
+</div>
+<IMG style="position:absolute;bottom:2.5%;left:5%;width:200px; height:50px;"SRC="`r logo`">
+
+## Our Network in Data {data-background=Hintergrund_CorrelAid.png}
+
+```{r, echo=FALSE}
+
+```
+
+
+<IMG style="position:absolute;bottom:2.5%;left:5%;width:200px; height:50px;"SRC="`r logo`">
+
+## What's CorrelAidX? {data-background=Hintergrund2.png}
+
+<div class="columns-2">
+
+- Blablabla
+
+- Lorem Ipsum
+
+- Noch ein Punkt
+
+- Formatideen?
+
+- ...
+
+- ...
+
+<br>
+<br>
+<img src="https://s12.directupload.net/images/200614/yuhxqlh7.png">
+
+
+<IMG style="position:absolute;bottom:2.5%;left:5%;width:200px; height:50px;"SRC="`r logo`">
+
+
+## Formats {data-background=Hintergrund2.png}
+
+<IMG style="position:absolute;bottom:2.5%;left:5%;width:200px; height:50px;"SRC="`r logo`">

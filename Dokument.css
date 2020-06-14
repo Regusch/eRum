@@ -1,0 +1,19 @@
+.title-slide {
+  background-image: Hintergrund.png;
+}
+
+.gdbar img {
+  width: 400px !important;
+  height: 100px !important;
+  margin: 8px 8px;
+}
+
+.gdbar {
+  width: 500px !important;
+  height: 120px !important;
+}
+
+slides slide:not(.nopagenumbers):before {
+  width: 150px;
+  height: 40px;
+}
