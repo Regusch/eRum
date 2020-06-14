@@ -111,4 +111,14 @@ society. <br>
 
 ## Formats {data-background=Hintergrund2.png}
 
+<div class="columns-2">
+<img src="https://s12.directupload.net/images/200614/7xok3aby.png">
+
+<br>
+<br>
+
+<img src="https://s12.directupload.net/images/200614/xk78vu34.png">
+
+
+
 <IMG style="position:absolute;bottom:2.5%;left:5%;width:200px; height:50px;"SRC="`r logo`">
