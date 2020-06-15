@@ -85,6 +85,17 @@ society. <br>
 
 <IMG style="position:absolute;bottom:2.5%;left:5%;width:200px; height:50px;"SRC="`r logo`">
 
+## R Communities on the Local Level?  {data-background=Hintergrund_CorrelAid.png}
+
+**Decentralization**: NPOs often operate on the Local Level
+
+**Inclusion**: Data Scientists and RUsers do not all want to move to the capital city
+
+**Diversity**: Local structures allow for better matches between Data Scientists and NPOs
+
+<IMG style="position:absolute;bottom:2.5%;left:5%;width:200px; height:50px;"SRC="`r logo`">
+
+
 ## What's CorrelAidX? {data-background=Hintergrund2.png}
 
 <div class="columns-2">
