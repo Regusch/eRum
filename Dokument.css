@@ -2,6 +2,11 @@
   background-image: Hintergrund.png;
 }
 
+.title-slide hgroup h1 {
+  font-size: 40px;
+  letter-spacing: 0;
+}
+
 .gdbar img {
   width: 400px !important;
   height: 100px !important;
@@ -16,4 +21,16 @@
 slides slide:not(.nopagenumbers):before {
   width: 150px;
   height: 40px;
+}
+
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+}
+
+.a {
+  text-decoration: none;
 }

@@ -1,7 +1,8 @@
 ---
-title: "eRum"
-author: "Regina Siegers"
-date: "13 6 2020"
+title: "CorrelAidX - Building R-focused Communities for Social Good on the Local Level"
+subtitle: "eRum 2020"
+author: "Regina Siegers [&lt;regina.s@correlaid.org&gt;](mailto:regina.s@correlaid.org), Twitter: ['@Regusch'](https://twitter.com/Regusch)"
+date: "June 18 2020"
 output: ioslides_presentation
 logo: CorrelAid_Dach-Label_white.png
 css: Dokument.css
@@ -253,6 +254,7 @@ Hepling local organizations through projects and consulting
   - Serving Data4Good on the local level
   - Increasing visibility and acknowledgment of Data4Good among broader parts of society
   
+<<<<<<< HEAD
 <br>
 <br>
 
@@ -264,7 +266,29 @@ Hepling local organizations through projects and consulting
 ## How to reach us:{data-background=Hintergrund_Ende.png}
 
     Follow us on Twitter for <br> recent updates
+=======
+If you want to join a CorrelAidX-Chapter or even set up your own Chapter, please contact [CorrelAid](mailto:info@correlaid.org)
+>>>>>>> 4f5b1d5baa217f770b18437d36066037f844f85c
 
 
 
 <IMG style="position:absolute;bottom:2.5%;left:5%;width:200px; height:50px;"SRC="`r logo`">
+
+## Wrap-Up
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+<a href="https://twitter.com/CorrelAid" class="fa fa-twitter"></a>: <a href="https://twitter.com/CorrelAid?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @CorrelAid</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div>
+
+<a href="https://www.facebook.com/WeAreCorrelAid/" class="fa fa-facebook"></a>: [WeAreCorrelAid](https://www.facebook.com/WeAreCorrelAid)
+
+<a href="https://www.linkedin.com/company/correlaid/" class="fa fa-linkedin"></a>: [CorrelAid](https://www.linkedin.com/company/correlaid/)
+
+
+
+
+
+<IMG style="position:absolute;bottom:2.5%;left:5%;width:200px; height:50px;"SRC="`r logo`">
+
+
