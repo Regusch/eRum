@@ -45,7 +45,7 @@ Deputy Chairwomen CorrelAid
 <br>
 <br>
 <br>
-CorrelAid is a Network of >1300 Data Scientists, who want to create positive change trough data science.
+CorrelAid is a Network of >1500 Data Scientists, who want to create positive change trough data science.
 </div>
 <IMG style="position:absolute;bottom:2.5%;left:5%;width:200px; height:50px;"SRC="`r logo`">
 
@@ -59,12 +59,7 @@ CorrelAid is a Network of >1300 Data Scientists, who want to create positive cha
 <img src="https://s12.directupload.net/images/200614/xgzs8srz.png">
 
 
-**GOOD**: <br>
-We provide pro-bono data
-analysis to
-organisations with a social
-mission. <br>
---- <br>
+
 **COMMUNITY**: <br>
 We connect data
 scientists & provide a platform to apply and expand their knowledge. <br>
@@ -72,6 +67,12 @@ scientists & provide a platform to apply and expand their knowledge. <br>
 **TOMORROW**: <br>
 We initiate a dialogue on the benefits of data science for civil
 society. <br>
+--- <br>
+**GOOD**: <br>
+We provide pro-bono data
+analysis to
+organisations with a social
+mission. <br>
 
 </div>
 <IMG style="position:absolute;bottom:2.5%;left:5%;width:200px; height:50px;"SRC="`r logo`">
@@ -79,11 +80,56 @@ society. <br>
 ## Our Network in Data {data-background=Hintergrund_CorrelAid.png}
 
 ```{r, echo=FALSE}
+#**Subscriber count**
+#
+#library(plotly)
+#library(ggplot2)
+#library(ggthemes)
+#dat <- readxl::read_xlsx("C:/Users/Admin/Desktop/CorrelAid/eRum/Daten_date.xlsx")
+#dat <- dat[order(dat$OPTIN_TIME),]
+#dat$count <- c(1:nrow(dat))
+#dat <- dat %>% 
+#  rename(
+#    Date = OPTIN_TIME,
+#    Subscribers = count
+#    )
+#sub <- ggplot(data=dat, aes(x=Date, y=Subscribers))+
+#  geom_line()+
+#  scale_color_fivethirtyeight() +
+#  theme_fivethirtyeight()
+
+#**subscriber map**
+#library(ggmap)
+#register_google(key = "GOOGLE-KEY")
+#ok <- which(is.na(dat$`In what city? *`))
+#dat2 <- dat[-c(ok),]
+#coord <- geocode(dat2$`In what city? *`, output=c("latlon"), source="google")
+#coord[,3] <- dat2$`In what city? *`
+
+#map <- ggmap(get_googlemap(center = c(lon = 10.4541194, lat = 51.1642292),
+#                    zoom = 5, size = c(350, 350), format  = "png8", scale = 2,
+#                    maptype ='terrain',
+#                    color = 'color'))
+#
+#map2 <- ggmap(get_map(location=c(lon = 10.4541194, lat = 51.1642292), zoom=5, maptype #= "watercolor"))
+#
+#map3 <- ggmap(get_map(location=c(lon = 10.4541194, lat = 51.1642292), zoom=5, maptype #= "toner"))
+#theme_set(theme_fivethirtyeight())
+#map2 <- map2 + geom_point(aes(x = coord$lon, y = coord$lat,  colour = "red"), data = coord, size = 1)
+
+
+#ggsave("tonermap.png", plot = map3)
+#ggsave("watermap.png", plot= map2)
+#ggsave("googleap.png", plot= map)
+
 
 ```
+<div class="columns-2">
 
+<img src = "https://s12.directupload.net/images/200616/tfld25ku.png">
 
-<IMG style="position:absolute;bottom:2.5%;left:5%;width:200px; height:50px;"SRC="`r logo`">
+ **~1600 Data Scientists in our Network**
+
 
 ## R Communities on the Local Level?  {data-background=Hintergrund_CorrelAid.png}
 
@@ -100,39 +146,89 @@ society. <br>
 
 ## What's CorrelAidX? {data-background=Hintergrund2.png}
 
+ **25 Volunteers in our Core Team**
+
+
+ **3 full-time employees in our Berlin Office**
+
+ **>30 Projects with NPOs**
+
+ **>50 Workshops**
+ 
+```{r, echo=FALSE}
+#Notiz an mich: Evtl Grafik einfügen: Balkendiagramm mit Workshops, Projects, Volunteers + R-bezug in anderer Farbe
+```
+
+
+<IMG style="position:absolute;bottom:2.5%;left:5%;width:200px; height:50px;"SRC="`r logo`">
+
+## Our Main Challanges {data-background=Hintergrund_CorrelAid.png}
 <div class="columns-2">
 
-- Blablabla
-
-- Lorem Ipsum
-
-- Noch ein Punkt
-
-- Formatideen?
-
-- ...
-
-- ...
+ <span style="font-size:3em;">**How can we do better?**</span>
 
 <br>
 <br>
-<img src="https://s12.directupload.net/images/200614/yuhxqlh7.png">
+<br>
+
+- 
+
+
+<IMG style="position:absolute;bottom:2.5%;left:5%;width:200px; height:50px;"SRC="`r logo`">
+
+## Our Main Challanges {data-background=Hintergrund_CorrelAid.png}
+<div class="columns-2">
+
+ <span style="font-size:3em;">**How can we do better?**</span>
+
+<br>
+
+
+<span style="font-size:3em;">**How can we do more?**</span>
+
+
+<IMG style="position:absolute;bottom:2.5%;left:5%;width:200px; height:50px;"SRC="`r logo`">
+
+## What's CorrelAidX? {data-background=CorrelAid_X_Transition.png}
+
 
 
 <IMG style="position:absolute;bottom:2.5%;left:5%;width:200px; height:50px;"SRC="`r logo`">
 
 
+## What we do {data-background=Hintergrund3.png}
+
+<div style="float: right; width: 45%;">
+
+**Workshops&Events** <br>
+(R-based) Workshops & Data Dialogues with local Data Scientists and NPOs
+<br>
+<br>
+**Community** <br>
+Regular Meet-Ups & cooperations with other data-related communities
+<br>  
+**Local Projects** <br>
+Hepling local organizations through projects and consulting
+  
+</div>
+<IMG style="position:absolute;bottom:2.5%;left:5%;width:200px; height:50px;"SRC="`r logo`">
+
 ## Formats {data-background=Hintergrund2.png}
 
 <div class="columns-2">
+
 <img src="https://s12.directupload.net/images/200614/7xok3aby.png">
 
-<br>
 <br>
 
 <img src="https://s12.directupload.net/images/200614/xk78vu34.png">
 
-
+**Data Dialogue** <br>
+- Local Chapters invite Data Scientists and local NGOs to talk about their challanges and develop data-driven projects that could solve them
+<br>
+<br>
+**Datentreff** <br>
+- Weekly MeetUp in Cooperation with the University of Bremen
 
 <IMG style="position:absolute;bottom:2.5%;left:5%;width:200px; height:50px;"SRC="`r logo`">
 
