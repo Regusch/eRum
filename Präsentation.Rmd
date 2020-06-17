@@ -86,6 +86,24 @@ mission. <br>
 #library(ggplot2)
 #library(ggthemes)
 #dat <- readxl::read_xlsx("C:/Users/Admin/Desktop/CorrelAid/eRum/Daten_date.xlsx")
+#library(ggplot2)
+#library(dplyr)
+#library(forcats)
+#library(RColorBrewer)
+#library(jcolors)
+#dat2 <- readxl::read_xlsx("C:/Users/Admin/Desktop/CorrelAid/eRum/Activity.xlsx")
+
+#p <-  ggplot(dat2[-c(2,4),], aes(x=reorder(Activity, Count), y=Count)) +   
+#  geom_bar(stat = "identity", width=0.5, fill="#238A8DFF")+ 
+#  coord_flip()+
+#  xlab("")
+#  
+#?scale_fill_manual
+
+#?colorRampPalette
+
+#plot(p)
+#ggsave("Activity2.png", plot=p)
 #dat <- dat[order(dat$OPTIN_TIME),]
 #dat$count <- c(1:nrow(dat))
 #dat <- dat %>% 
@@ -129,25 +147,8 @@ mission. <br>
 <img src = "https://s12.directupload.net/images/200616/tfld25ku.png">
 
  **~1600 Data Scientists in our Network**
-
-
-## R Communities on the Local Level?  {data-background=Hintergrund_CorrelAid.png}
-
-**Decentralization**: NPOs often operate on the Local Level
-
-**Inclusion**: Data Scientists and RUsers do not all want to move to the capital city
-
-**Diversity**: Local structures allow for better matches between Data Scientists and NPOs
-
-**Supply and Demand**: Some offers/formats might work better in certain locations than in others
-
-<IMG style="position:absolute;bottom:2.5%;left:5%;width:200px; height:50px;"SRC="`r logo`">
-
-
-## What's CorrelAidX? {data-background=Hintergrund2.png}
-
+ 
  **25 Volunteers in our Core Team**
-
 
  **3 full-time employees in our Berlin Office**
 
@@ -155,12 +156,8 @@ mission. <br>
 
  **>50 Workshops**
  
-```{r, echo=FALSE}
-#Notiz an mich: Evtl Grafik einfügen: Balkendiagramm mit Workshops, Projects, Volunteers + R-bezug in anderer Farbe
-```
+ <IMG style="position:absolute;bottom:2.5%;left:5%;width:200px; height:50px;"SRC="`r logo`">
 
-
-<IMG style="position:absolute;bottom:2.5%;left:5%;width:200px; height:50px;"SRC="`r logo`">
 
 ## Our Main Challanges {data-background=Hintergrund_CorrelAid.png}
 <div class="columns-2">
@@ -189,7 +186,22 @@ mission. <br>
 
 <IMG style="position:absolute;bottom:2.5%;left:5%;width:200px; height:50px;"SRC="`r logo`">
 
-## What's CorrelAidX? {data-background=CorrelAid_X_Transition.png}
+
+## R Communities on the Local Level?  {data-background=Hintergrund4.png}
+<div style="float: left; width: 65%;">
+
+**Decentralization**: NPOs often operate on the Local Level
+
+**Inclusion**: Data Scientists and RUsers do not all want to move to the capital city
+
+**Diversity**: Local structures allow for better matches between Data Scientists and NPOs
+
+**Supply and Demand**: Some offers/formats might work better in certain locations than in others
+
+<IMG style="position:absolute;bottom:2.5%;left:5%;width:200px; height:50px;"SRC="`r logo`">
+
+
+## Transition {data-background=CorrelAid_X_Transition.png}
 
 
 
@@ -227,20 +239,32 @@ Hepling local organizations through projects and consulting
 - Local Chapters invite Data Scientists and local NGOs to talk about their challanges and develop data-driven projects that could solve them
 <br>
 <br>
-**Datentreff** <br>
-- Weekly MeetUp in Cooperation with the University of Bremen
+**"Datentreff"** <br>
+- Regular MeetUp in Cooperation with the University of Bremen
+- Exchange and mutual learning of R e.g. through the tidy tuesday challanges
 
 <IMG style="position:absolute;bottom:2.5%;left:5%;width:200px; height:50px;"SRC="`r logo`">
 
-## Wrap-Up {data-background=Hintergrund_CorrelAid.png}
+## Wrap-Up {data-background=Hintergrund2.png}
+<div class="columns-2">
 
-- R Communities on the Local Level serve several purposes:
+**R Communities on the Local Level serve several purposes:**
 
   - Inclusion and community building among RUsers
-  - Serving Data4Good on the Local Level
+  - Serving Data4Good on the local level
   - Increasing visibility and acknowledgment of Data4Good among broader parts of society
   
-If you want to join a CorrelAidX-Chapter or even set up your own Chapter, please contact [Regina](mailto:regina.s@correlaid.org)
+<br>
+<br>
+
+<img src="https://s12.directupload.net/images/200617/u8htsugf.png">
+
+<IMG style="position:absolute;bottom:2.5%;left:5%;width:200px; height:50px;"SRC="`r logo`">
+
+
+## How to reach us:{data-background=Hintergrund_Ende.png}
+
+    Follow us on Twitter for <br> recent updates
 
 
 
