@@ -20,16 +20,6 @@ logo<-"https://s12.directupload.net/images/200614/y8wrqgne.png"
 
 
 
-## Introduction Slide
-
-Regina Siegers
-Deputy Chairwomen CorrelAid
-
-- Twitterhandle Regina
-- Twitterhandle CorrelAid
-- Facebook CorrelAid
-- Website / Mailinglist
-
 ## What's CorrelAid {data-background=Hintergrund_CorrelAid.png}
 
 <div class="columns-2">
@@ -78,7 +68,7 @@ mission. <br>
 </div>
 <IMG style="position:absolute;bottom:2.5%;left:5%;width:200px; height:50px;"SRC="`r logo`">
 
-## Our Network in Data {data-background=Hintergrund_CorrelAid.png}
+## Our Network in Data {data-background=Hintergrund_Daten.png}
 
 ```{r, echo=FALSE}
 #**Subscriber count**
@@ -134,56 +124,53 @@ mission. <br>
 #
 #map3 <- ggmap(get_map(location=c(lon = 10.4541194, lat = 51.1642292), zoom=5, maptype #= "toner"))
 #theme_set(theme_fivethirtyeight())
-#map2 <- map2 + geom_point(aes(x = coord$lon, y = coord$lat,  colour = "red"), data = coord, size = 1)
-
+#map3 <- map3 + geom_point(aes(x = coord$lon, y = coord$lat,  colour = "red"), data = coord, size = 1)
+#map3
 
 #ggsave("tonermap.png", plot = map3)
 #ggsave("watermap.png", plot= map2)
 #ggsave("googleap.png", plot= map)
+#https://s12.directupload.net/images/200616/tfld25ku.png
+
+## How to reach us:{data-background=Hintergrund_Ende.png}
+
+
+#=======
+#If you want to join a CorrelAidX-Chapter or even set up your own Chapter, #please contact [CorrelAid](mailto:info@correlaid.org)
+#>>>>>>> 4f5b1d5baa217f770b18437d36066037f844f85c
+
 
 
 ```
 <div class="columns-2">
 
-<img src = "https://s12.directupload.net/images/200616/tfld25ku.png">
+<img src = "https://s12.directupload.net/images/200617/ps8a5tji.png">
 
- **~1600 Data Scientists in our Network**
- 
- **25 Volunteers in our Core Team**
 
- **3 full-time employees in our Berlin Office**
-
- **>30 Projects with NPOs**
-
- **>50 Workshops**
+<br>
+   **25 Volunteers in our Core Team**
+<br>
+<br>
+   **3 full-time employees in our Berlin Office**
+<br>
+<br>
+<br>
+   **>30 Projects with NPOs**
+<br>
+<br>
+<br>
+   **>50 Workshops**
  
  <IMG style="position:absolute;bottom:2.5%;left:5%;width:200px; height:50px;"SRC="`r logo`">
 
 
-## Our Main Challanges {data-background=Hintergrund_CorrelAid.png}
+## Our Main Challanges {data-background=Hintergrund_DO1.png}
 <div class="columns-2">
-
- <span style="font-size:3em;">**How can we do better?**</span>
-
-<br>
-<br>
-<br>
-
-- 
 
 
 <IMG style="position:absolute;bottom:2.5%;left:5%;width:200px; height:50px;"SRC="`r logo`">
 
-## Our Main Challanges {data-background=Hintergrund_CorrelAid.png}
-<div class="columns-2">
-
- <span style="font-size:3em;">**How can we do better?**</span>
-
-<br>
-
-
-<span style="font-size:3em;">**How can we do more?**</span>
-
+## Our Main Challanges {data-background=Hintergrund_DO2.png}
 
 <IMG style="position:absolute;bottom:2.5%;left:5%;width:200px; height:50px;"SRC="`r logo`">
 
@@ -191,13 +178,13 @@ mission. <br>
 ## R Communities on the Local Level?  {data-background=Hintergrund4.png}
 <div style="float: left; width: 65%;">
 
-**Decentralization**: NPOs often operate on the Local Level
+**Decentralization**: <br> NPOs often operate on the Local Level
 
-**Inclusion**: Data Scientists and RUsers do not all want to move to the capital city
+**Inclusion**: <br> Data Scientists and RUsers do not all want to move to the capital city
 
-**Diversity**: Local structures allow for better matches between Data Scientists and NPOs
+**Diversity**: <br> Local structures allow for better matches between Data Scientists and NPOs
 
-**Supply and Demand**: Some offers/formats might work better in certain locations than in others
+**Supply and Demand**: <br> Some offers/formats might work better in certain locations than in others
 
 <IMG style="position:absolute;bottom:2.5%;left:5%;width:200px; height:50px;"SRC="`r logo`">
 
@@ -241,7 +228,7 @@ Hepling local organizations through projects and consulting
 <br>
 <br>
 **"Datentreff"** <br>
-- Regular MeetUp in cooperation with the University of Bremen aiming for mutual learning of R (e.g. tidy tuesday challanges)
+- Regular MeetUp in cooperation with the University of Bremen aiming for peer-learning of R (e.g. tidy tuesday challanges)
 
 <IMG style="position:absolute;bottom:2.5%;left:5%;width:200px; height:50px;"SRC="`r logo`">
 
@@ -254,7 +241,6 @@ Hepling local organizations through projects and consulting
   - Serving Data4Good on the local level
   - Increasing visibility and acknowledgment of Data4Good among broader parts of society
   
-<<<<<<< HEAD
 <br>
 <br>
 
@@ -263,27 +249,19 @@ Hepling local organizations through projects and consulting
 <IMG style="position:absolute;bottom:2.5%;left:5%;width:200px; height:50px;"SRC="`r logo`">
 
 
-## How to reach us:{data-background=Hintergrund_Ende.png}
-
-    Follow us on Twitter for <br> recent updates
-=======
-If you want to join a CorrelAidX-Chapter or even set up your own Chapter, please contact [CorrelAid](mailto:info@correlaid.org)
->>>>>>> 4f5b1d5baa217f770b18437d36066037f844f85c
-
-
-
-<IMG style="position:absolute;bottom:2.5%;left:5%;width:200px; height:50px;"SRC="`r logo`">
-
-## Wrap-Up
+## Wrap-Up {data-background=Hintergrund_Ende.png}
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
-<a href="https://twitter.com/CorrelAid" class="fa fa-twitter"></a>: <a href="https://twitter.com/CorrelAid?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @CorrelAid</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-</div>
+<a href="www.correlaid.org" class="fa fa-external-link" aria-hidden="true"></a>: Visit us at correlaid.org
 
-<a href="https://www.facebook.com/WeAreCorrelAid/" class="fa fa-facebook"></a>: [WeAreCorrelAid](https://www.facebook.com/WeAreCorrelAid)
+<a href="https://twitter.com/CorrelAid" class="fa fa-twitter"></a>: Follow @CorrelAid <script async charset="utf-8"></script>
+<br>
+<a class="fa fa-facebook"></a>: WeAreCorrelAid
 
-<a href="https://www.linkedin.com/company/correlaid/" class="fa fa-linkedin"></a>: [CorrelAid](https://www.linkedin.com/company/correlaid/)
+<a href="https://www.linkedin.com/company/correlaid/" class="fa fa-linkedin"></a>: CorrelAid
+
+
 
 
 
