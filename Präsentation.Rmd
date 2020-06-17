@@ -240,8 +240,7 @@ Hepling local organizations through projects and consulting
 <br>
 <br>
 **"Datentreff"** <br>
-- Regular MeetUp in Cooperation with the University of Bremen
-- Exchange and mutual learning of R e.g. through the tidy tuesday challanges
+- Regular MeetUp in cooperation with the University of Bremen aiming for mutual learning of R (e.g. tidy tuesday challanges)
 
 <IMG style="position:absolute;bottom:2.5%;left:5%;width:200px; height:50px;"SRC="`r logo`">
 
