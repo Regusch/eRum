@@ -130,7 +130,24 @@ mission. <br>
 
  **~1600 Data Scientists in our Network**
 
+
+## R Communities on the Local Level?  {data-background=Hintergrund_CorrelAid.png}
+
+**Decentralization**: NPOs often operate on the Local Level
+
+**Inclusion**: Data Scientists and RUsers do not all want to move to the capital city
+
+**Diversity**: Local structures allow for better matches between Data Scientists and NPOs
+
+**Supply and Demand**: Some offers/formats might work better in certain locations than in others
+
+<IMG style="position:absolute;bottom:2.5%;left:5%;width:200px; height:50px;"SRC="`r logo`">
+
+
+## What's CorrelAidX? {data-background=Hintergrund2.png}
+
  **25 Volunteers in our Core Team**
+
 
  **3 full-time employees in our Berlin Office**
 
@@ -212,5 +229,19 @@ Hepling local organizations through projects and consulting
 <br>
 **Datentreff** <br>
 - Weekly MeetUp in Cooperation with the University of Bremen
+
+<IMG style="position:absolute;bottom:2.5%;left:5%;width:200px; height:50px;"SRC="`r logo`">
+
+## Wrap-Up {data-background=Hintergrund_CorrelAid.png}
+
+- R Communities on the Local Level serve several purposes:
+
+  - Inclusion and community building among RUsers
+  - Serving Data4Good on the Local Level
+  - Increasing visibility and acknowledgment of Data4Good among broader parts of society
+  
+If you want to join a CorrelAidX-Chapter or even set up your own Chapter, please contact [Regina](mailto:regina.s@correlaid.org)
+
+
 
 <IMG style="position:absolute;bottom:2.5%;left:5%;width:200px; height:50px;"SRC="`r logo`">
