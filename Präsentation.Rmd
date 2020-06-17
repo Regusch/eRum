@@ -93,6 +93,8 @@ society. <br>
 
 **Diversity**: Local structures allow for better matches between Data Scientists and NPOs
 
+**Supply and Demand**: Some offers/formats might work better in certain locations than in others
+
 <IMG style="position:absolute;bottom:2.5%;left:5%;width:200px; height:50px;"SRC="`r logo`">
 
 
@@ -129,6 +131,20 @@ society. <br>
 <br>
 
 <img src="https://s12.directupload.net/images/200614/xk78vu34.png">
+
+
+
+<IMG style="position:absolute;bottom:2.5%;left:5%;width:200px; height:50px;"SRC="`r logo`">
+
+## Wrap-Up {data-background=Hintergrund_CorrelAid.png}
+
+- R Communities on the Local Level serve several purposes:
+
+  - Inclusion and community building among RUsers
+  - Serving Data4Good on the Local Level
+  - Increasing visibility and acknowledgment of Data4Good among broader parts of society
+  
+If you want to join a CorrelAidX-Chapter or even set up your own Chapter, please contact [Regina](mailto:regina.s@correlaid.org)
 
 
 
