@@ -257,7 +257,7 @@ Hepling local organizations through projects and consulting
 
 <a href="https://twitter.com/CorrelAid" class="fa fa-twitter"></a>: Follow @CorrelAid <script async charset="utf-8"></script>
 <br>
-<a class="fa fa-facebook"></a>: WeAreCorrelAid
+<a href="https://www.facebook.com/WeAreCorrelAid" class="fa fa-facebook"></a>: WeAreCorrelAid
 
 <a href="https://www.linkedin.com/company/correlaid/" class="fa fa-linkedin"></a>: CorrelAid
 
